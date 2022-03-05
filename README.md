@@ -33,5 +33,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-llima&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-llima&layout=compact&langs_count=7&theme=react"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=g-llima&theme=react"
-    
 </div>
+    
+![snake gif](https://github.com/g-llima/g-llima/blob/output/github-contribution-grid-snake.svg)
