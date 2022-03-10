@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/01ihh0G.gif" width="100%" height="500px" />
   
   ![](https://komarev.com/ghpvc/?username=g-llima&color=56BCD9&label=Views)
-  ![](https://img.shields.io/badge/Repo-22-56BCD9)
   
 </div>
 
