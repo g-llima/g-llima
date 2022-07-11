@@ -14,7 +14,7 @@
 
 <h2>Tecnologias</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,py,java,react,angular,dotnet,express,nodejs,mongodb,mysql,postgres,git,github,spring"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,py,java,cs,react,angular,dotnet,express,nodejs,mongodb,mysql,postgres,git,github,spring"/>
 </div>
 
 <div>
